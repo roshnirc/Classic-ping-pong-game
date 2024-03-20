@@ -1,2 +1,2 @@
-# Classici-ping-pong-game
+# Classic-ping-pong-game
 A java project
